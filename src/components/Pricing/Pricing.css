@@ -1,0 +1,32 @@
+.colorC {
+    background-color: #F9F8FD !important;
+}
+
+.activeC {
+    background-color: #614EA9;
+    color: #fff;
+}
+
+.pricing .card h2 {
+    font-size: 25px;
+}
+
+.colorPrice {
+    color: #614EA9;
+}
+
+p {
+    color: #E1E1E1 !important;
+}
+
+.selectList, .c3 p {
+    color: #8B8B8B !important;
+}
+
+.whiteSelect {
+    color: #fff !important;
+}
+
+.btnPr {
+    margin: 0 !important;
+}
